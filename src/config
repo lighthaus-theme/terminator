@@ -1,0 +1,27 @@
+# Lighthaus Color theme for Terminator
+# GIT: https://github.com/lighthaus-theme/terminator
+# Author: Adhiraj Sirohi (https://github.com/brutuski)
+#         Vasundhara Sharma (https://github.com/vasundhasauras)
+
+# Copyright © 2020-Present Lighthaus Theme
+# Copyright © 2020-Present Adhiraj Sirohi
+# Copyright © 2020-Present Vasundhara Sharma
+
+
+[global_config]
+  title_hide_sizetext = True
+  title_transmit_fg_color = "#FFFF00"
+  title_transmit_bg_color = "#18191E"
+  title_receive_fg_color = "#ED722E"
+  title_receive_bg_color = "#21252D"
+  title_inactive_fg_color = "#FFFADE"
+  title_inactive_bg_color = "#21252D"
+
+[profiles]
+  [[lighthaus]]
+    background_color = "#18191E"
+    cursor_color = "#FFFF00"
+    cursor_color_fg = False
+    foreground_color = "#FFEE79"
+    scrollbar_position = hidden
+    palette = "#18191E:#FC2929:#44B273:#E25600:#1D918B:#D16BB7:#00BFA4:#CCCCCC:#21252D:#FC5050:#50C16E:#ED722E:#47A8A1:#D68EB2:#5AD1AA:#FFFADE"
